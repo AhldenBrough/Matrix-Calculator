@@ -1,0 +1,13 @@
+Ahlden Brough
+ajbrough
+pa2
+
+Sparse.c reads in a file and performs matrix ADT operations on it and returns a file with the results.
+Matrix.c An ADT that represents a sparse matrix that you can do basic matrix operations on.
+Matrix.h .h file for the Matrix ADT.
+MatrixTest.c A test for the Matrix ADT.
+List.c A list ADT which uses a doubly linked list of void pointers.
+List.h .h file for the List ADT.
+ListTest.c Test for the List ADT.
+Makefile Creates executable file named Sparse.
+README Provides descriptions of each file in pa2
